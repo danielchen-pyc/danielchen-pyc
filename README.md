@@ -1,5 +1,5 @@
-#### Hi there 👋, I'm Daniel!
-##### UBC Engineering Physics ⚡️⚡️
+### Hi there 👋, I'm Daniel!
+#### UBC Engineering Physics ⚡️⚡️
 I like to learn new stuff and build cool projects! I'm also a certified scuba diver and love to travel.
 
 Skills: C, C++, Python, some Java, and some Frontend
