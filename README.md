@@ -4,7 +4,7 @@ I like to learn new stuff and build cool projects! I'm also a certified scuba di
 
 Skills: C, C++, Python, some Java, and some Frontend
 
-- 🔭 I’m currently working on [os161](https://sites.google.com/view/cpen331fall2020/home) 
+- 🔭 I’m currently working on [os161](https://sites.google.com/view/cpen331fall2020/assignments) 
 - 🌱 I’m currently learning Operating Systems and Robotics 
 
 
