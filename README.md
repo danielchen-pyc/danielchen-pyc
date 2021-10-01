@@ -2,9 +2,10 @@
 ### UBC Engineering Physics ⚡️⚡️
 I like to learn new stuff and build cool projects! I'm also a certified scuba diver and love to travel around the world.
 
-Skills: C, C++, Python, MatLab, some Java, and some Frontend
+Skills: Python, Javascript, C, C++, MatLab, some Java, and some Frontend
 
-- 🔭 I’m currently working on [my personal website](https://github.com/danielchen-pyc/danielchen-pyc.github.io) 
+- 🔭 I’m currently working in [Sony Pictures Imageworks](https://www.imageworks.com/) as a Software Intern
+- 💡 I’m currently doing my Capstone Project on training ML models for surgical robotics
 - 🌱 I’m currently learning Robotics and practicing [algorithmic problems](https://github.com/danielchen-pyc/algorithms)
 
 
